@@ -23,17 +23,8 @@ source("config.R")
 source("functions.R")
 load("active_wikis.RData")
 
-betafeatures <- function(){
-  
-  
-  
-  
-  
-  
-}
+#Grab data on all active users, full stop
 
-#Run
-betafeatures()
 
 #Quit
 q(save = "no")
